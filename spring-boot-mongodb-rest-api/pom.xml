@@ -8,7 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.bushansirgur</groupId>
+	<groupId>in.balaji</groupId>
 	<artifactId>spring-boot-mongodb-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mongodb-rest-api</name>
@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<start-class>in.bushansirgur.restapi.SpringBootMongodbRestApiApplication</start-class>
+		<start-class>com.training.springboot.SpringBootMongodbRestApiApplication</start-class>
 	</properties>
 
 	<dependencies>

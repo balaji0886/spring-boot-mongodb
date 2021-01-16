@@ -1,4 +1,4 @@
-package in.bushansirgur.restapi;
+package com.training.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
